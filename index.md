@@ -14,7 +14,7 @@ Github: [gyuyuu](https://github.com/gyuyuu)
  * Using an android studio, developed and tested an application that provides personal virtual closet service. It was a team project from COMP-3350-Software Engineering 1.
 
  **Coffee data analysis (Fall 2021)**
- * Set an analysis question and do visualization and data analyzing using R programming. It was a team project from DATA-2010-Tools and Techniques for Data Science.
+ * Set an analysis question and do a visualization and data analyzing using R programming. It was a team project from DATA-2010-Tools and Techniques for Data Science.
 
 ## **Experience**
  **Forwader-Woo Young, South Korea(Summer 2020)**
