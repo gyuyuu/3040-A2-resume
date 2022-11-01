@@ -22,12 +22,39 @@ Tone: Objective
  
 4. **Instructions, including animated GIF**
 
- * Use headings and numbered lists
- * Remember to use each step to explain BOTH how to follow Etter's protocol and how to host a resume in GitHub Pages or Codeberg Pages. It's up to you whether you 1) begin with Etter's general process and then demonstrate the process with a practical step involving your resume, or 2) begin with the practical steps for hosting a resume and relate each practical step to a concept in Etter's book.
- * Add an animated GIF:
+ ### How to host your resume on github page using Jekyll
+   
+  1. Download Jekyll
+   * Download [Ruby](https://jekyllrb.com/docs/installation/macos/)
+   * Download [Jekyll](https://jekyllrb.com)
+   
+  2. Create a repository on [github](https://github.com)
+   * Click the create button on your repository page.
+   * Name the repository as username.github.io
+   
+  3. Create _config.yml file
+   * Click Add File > Create new file on the top right corner
+   * Name the title _config.yml
+   * Write two lines of code
+   ```
+   title: Your Title
+   theme: jekyll-theme-minimal
+   ```
+   * Click the Commit new file button at the bottom
+   
+  4. Create index.md file
+   * Create a file name index.md using the same way as above
+   * For the content, you may write your resume in markdown format
+   
+  5. See your resume
+   * Go to https://username.github.io
+   * You can see your resume!
+
+ * Remember to use each step to explain BOTH how to follow Etter's protocol  1) begin with Etter's general process and then demonstrate the process with a practical step involving your resume, or 2) begin with the practical steps for hosting a resume and relate each practical step to a concept in Etter's book.
 
   ![GIF](https://github.com/gyuyuu/gyuyuu.github.io/blob/main/resume.GIF)
- * More Resources:
+
+ * More Resources: 
  
    1. [a Markdown tutorial](https://www.markdowntutorial.com)
    2. [a link to Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
