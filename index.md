@@ -20,7 +20,7 @@ Github: [gyuyuu](https://github.com/gyuyuu)
  **Forwader-Woo Young, South Korea(Summer 2020)**
  * Worked with team of 9 connecting consignee and consignor.
 
- **Temperature checks-Bella Cita, South Korea (Summer 2021)**
+ **Temperature checking-Bella Cita, South Korea (Summer 2021)**
  * Worked at shopping mall & parking lot with team of 4 to check customers' temperature.
 
  **Food preparation-Jimmy the Greeks, Winnipeg (Summer 2022)**
