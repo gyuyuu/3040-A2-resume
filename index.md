@@ -6,12 +6,12 @@ Github: [gyuyuu](https://github.com/gyuyuu)
 
 ## **Education**
  **University of Manitoba, Winnipeg, MB (2018 - 2023)**
- * Bachelor of Science, Major in Computer Science, Minor in Statistic   
+ * Bachelor of Science, Major in Computer Science, Minor in Statistics   
  * Expected Graduation Date: May 2023
 
 ## **Projects**
  **My closet (Winter 2022)**
- * Using android studio, developed and tested an application that provides personal virtual closet service. It was a team project from COMP-3350-Software Engineering 1.
+ * Using an android studio, developed and tested an application that provides personal virtual closet service. It was a team project from COMP-3350-Software Engineering 1.
 
  **Coffee data analysis (Fall 2021)**
  * Set an analysis question and do visualization and data analyzing using R programming. It was a team project from DATA-2010-Tools and Techniques for Data Science.
