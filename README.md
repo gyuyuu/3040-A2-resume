@@ -24,7 +24,8 @@ Tone: Objective
 
  * Use headings and numbered lists
  * Remember to use each step to explain BOTH how to follow Etter's protocol and how to host a resume in GitHub Pages or Codeberg Pages. It's up to you whether you 1) begin with Etter's general process and then demonstrate the process with a practical step involving your resume, or 2) begin with the practical steps for hosting a resume and relate each practical step to a concept in Etter's book.
- * Add an animated GIF: Include a demo using an animated GIF in your README. The GIF should feature your own resume (showing your own name) in the GIF.
+ * Add an animated GIF:
+  ![GIF](https://github.com/gyuyuu/gyuyuu.github.io/blob/main/resume.GIF)
  * More Resources:
  
    1. [a Markdown tutorial](https://www.markdowntutorial.com)
