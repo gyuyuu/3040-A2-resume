@@ -1,14 +1,4 @@
 # How to host and format a resume
-
-------------------------A2 Submission text-----------------------------------------------------
-Audience: CS Student
-Venue: README on github Pages
-Purpose: Explain how to host a resume on github Pages.
-Additional purpose: Introduce and demonstrate the principles of Andrew Etter's book Modern Technical Writing
-Desired Reaction: Able to get information about me effectively
-Vocabulary: Technical
-Tone: Objective
------------------------------------------------------------------------------------------------
  
 ## Purpose: 
 Describe the practical steps of how to host and format a resume. 
