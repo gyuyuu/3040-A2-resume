@@ -1,7 +1,7 @@
 # Gyuri Kim
 
-Phone: (204) 880-0757/
-Email: kimg2@myumanitoba.ca/
+Phone: (xxx) xxx-xxxx/
+Email: xxxxx@myumanitoba.ca/
 Github: [gyuyuu](https://github.com/gyuyuu)
 
 ## **Education**
