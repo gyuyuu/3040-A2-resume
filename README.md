@@ -16,33 +16,31 @@ Tone: Objective
  
 2. **Purpose**: Describe the practical steps of how to host and format a resume. 
 
-3. **Prerequisites**: This should include a resume formatted in Markdown (?)
-
-  * Include a link to a good Markdown tutorial under "More Resources." You do not need to explain how to use Markdown. 
+3. **Prerequisites**: Prepare your laptop, internet connection, and your resume
  
 4. **Instructions: How to host your resume on github page using Jekyll**
    
    #### Download Jekyll
    
     1. Download [Ruby](https://jekyllrb.com/docs/installation/macos/)
-    2.  Download [Jekyll](https://jekyllrb.com)
+    2. Download [Jekyll](https://jekyllrb.com)
    
    #### Create a repository on [github](https://github.com)
    
-    1. Click the create button on your repository page.
+    1. Click the **Create** button on your repository page.
     2. Name the repository as username.github.io
    
    #### Create _config.yml file
   
-    1. Click Add File > Create new file on the top right corner
+    1. Click **Add File** > **Create** new file on the top right corner
     2. Name the title _config.yml
-    3. Write two lines of code
+    3. Write two lines of code (You may choose different themes from this example)
     
    ```
    title: Your Title
    theme: jekyll-theme-minimal
    ```
-    4. Click the Commit new file button at the bottom
+    4. Click the **Commit new file** button at the bottom
    
    #### Create index.md file
   
