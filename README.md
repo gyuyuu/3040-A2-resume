@@ -4,7 +4,7 @@
 Describe the practical steps of how to host and format a resume. 
 
 ## Prerequisites: 
-Prepare your laptop, internet connection, your resume(written in markdown format), and your github account
+Prepare your laptop, internet connection, your resume(written in markdown format), and your github account. If you don't know about what is a github, it is a distributed version control system(DVCS) which is commonly used nowdays. It is useful for concurrent work on same task.
  
 ## Instructions: 
 How to host your resume on github page using Jekyll
@@ -35,7 +35,7 @@ How to host your resume on github page using Jekyll
   
    1. Click the **Add file** button
    2. Click **Create new file** or **Upload file**
-   3. * Create new file: When you are creating a new file, name the file 'index.md'. For the content, write your resume in markdown format.
+   3. * Create new file: When you are creating a new file, name the file 'index.md'. For the content, write your resume in markdown format which is lightweight markup.
       * Upload file: Upload your existing resume file written in markdown format from your computer.
    4. And click **Commit changes**.
    
